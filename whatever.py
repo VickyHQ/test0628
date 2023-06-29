@@ -17,4 +17,5 @@ with features:
     st.header('The features I created')
 
 with modelTraining:
-    st.hearder('Time to train the model')
+    st.header('Time to train the model')
+    
